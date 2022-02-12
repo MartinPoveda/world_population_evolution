@@ -1,0 +1,6 @@
+name: world_pop
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
